@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Cabin Condensed">@import url(https://fonts.googleapis.com/css2?family=Cabin+Condensed%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700&amp;display=swap);</style>
+  </defs>
+  <ellipse style="fill: rgb(255, 111, 50); stroke: rgb(255, 111, 50);" cx="234.635" cy="211.627" rx="100" ry="100"/>
+  <rect x="134.635" y="111.627" width="100" height="100" style="fill: rgb(255, 111, 50); stroke: rgb(255, 111, 50);"/>
+  <path d="M 365.602 204.827 L 434.345 369.25 L 296.859 369.25 L 365.602 204.827 Z" style="stroke: rgb(255, 111, 50); fill: rgb(255, 111, 50);" transform="matrix(-0.923103, -0.384554, 0.384554, -0.923103, 393.489899, 713.919983)" bx:shape="triangle 296.859 204.827 137.486 164.423 0.5 0 1@3fc793ba"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;Cabin Condensed&quot;; font-size: 150px; font-style: italic; font-weight: 700; white-space: pre;" x="167.789" y="375.42">VR</text>
+</svg>
